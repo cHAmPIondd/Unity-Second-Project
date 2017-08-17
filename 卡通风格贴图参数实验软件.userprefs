@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MonoScripts\GroundGameMono.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MonoScripts\GroundGameMono.cs" Line="146" Column="87" />
+      <File FileName="Assets\Shader\Cartoon.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\Phone_GetableMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\Note_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\GameProgressManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\ComputerMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\ComputerShowable_ShowaleMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\USBMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\SpaceInvader2_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\DesktopChildSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\UDisk_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\SpaceInvader\SpaceInvaderMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\RecycleBin_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\Note2_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\CodeObjectMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\DesktopApp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\Email_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\Help_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\SpaceInvader_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\HelpMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\ControlMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\App\VS_App.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\Code\Move_Code.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\Code\Read_Code.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\Code\Show_Code.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalScripts\Code\SetClimbable_Code.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\AppMono.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoScripts\PhoneMono.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
